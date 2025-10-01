@@ -4,5 +4,14 @@
   "artist": "",
   "author": "Tamifull",
   "cover": "https://dwgkfo5b3odmw.cloudfront.net/manga/thumbs/thumb-81704-HowDoWeRelationship_GN01_C1_Web_3_jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1759290362",
+      "groups": {
+        "": "https://weebcentral.com/chapters/01J76XZ0ZB503XYH5C2V1SQYF1"
+      }
+    }
+  }
 }
